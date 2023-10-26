@@ -1,0 +1,4 @@
+Thu Oct 26 21:47:06 YEKT 2023
+ Исполнена математическая операция - >>> Substract of complex numbers
+result of Math Complex Numbers 1.0+4.0i
+
